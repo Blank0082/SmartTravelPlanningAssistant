@@ -1,0 +1,82 @@
+### IntelliJ IDEA ###
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
+
+# Flutter/Dart specific
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+build/
+ios/Flutter/.last_build_id
+.dart_tools/
+.metadata
+
+# IntelliJ related
+*.iml
+.idea/
+
+# Android specific
+android/.gradle/
+android/.idea/
+android/local.properties
+android/.flutter-plugins
+android/.flutter-plugins-dependencies
+android/.metadata
+android/flutter/build/
+android/app/build/
+
+# iOS specific
+ios/Pods/
+ios/Runner.xcworkspace/
+ios/Flutter/Flutter.framework/
+ios/Flutter/Flutter.podspec
+ios/.symlinks/
+ios/Flutter/ephemeral/
+ios/.generated/
+ios/Flutter/Debug.xcconfig
+ios/Flutter/Release.xcconfig
+ios/Flutter/App.framework
+
+# Linux specific
+linux/.cxx/
+linux/.cmake/
+linux/.clangd/
+
+# Windows specific
+windows/.vs/
+windows/.cxx/
+windows/.cmake/
+windows/.clangd/
+
+# Web specific
+web/.dart_tool/
+
+
+node_modules
