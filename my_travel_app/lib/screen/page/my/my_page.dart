@@ -16,7 +16,7 @@ class MyPage extends ConsumerWidget {
     });
 
     final showSettings = ref.watch(showSettingsProvider);
-    final username = ref.read(usernameProvider.notifier).state;
+    final username = ref.watch(usernameProvider);
 
     return Scaffold(
       appBar: AppBar(

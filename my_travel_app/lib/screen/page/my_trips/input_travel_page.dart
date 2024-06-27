@@ -65,9 +65,6 @@ class InputTravelPageState extends ConsumerState<InputTravelPage> {
                 builder: (context) => TravelPlanPage(
                       travelPlan: travelPlan,
                       showConfirmButton: true,
-                      goBack: () {
-                        Navigator.pop(context);
-                      },
                     )));
       } else {
         _showErrorDialog('伺服器錯誤', '稍後重試');

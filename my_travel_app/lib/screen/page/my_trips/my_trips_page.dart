@@ -47,6 +47,7 @@ class MyTripsPageState extends ConsumerState<MyTripsPage> {
             _isLoading = false;
           });
         } else {
+          _travelPlans = [];
           setState(() {
             _isLoading = false;
           });
