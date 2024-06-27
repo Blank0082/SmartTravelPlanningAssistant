@@ -78,6 +78,5 @@ windows/.clangd/
 # Web specific
 web/.dart_tool/
 
-.env
-
-node_modules.env
+#node
+node_modules/
