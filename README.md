@@ -25,7 +25,7 @@ It also integrates Google Maps for location display.
 
 ### Prerequisites
 
-1. clone repository
+##### clone repository
 
    ```
    git clone https://github.com/Blank0082/SmartTravelPlanningAssistant.git

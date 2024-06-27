@@ -23,7 +23,7 @@
 
 ### 先決條件
 
-1. 克隆倉庫:
+#### 克隆倉庫:
 
    ```
    git clone https://github.com/Blank0082/SmartTravelPlanningAssistant.git
