@@ -2,9 +2,9 @@
 
 ## Overview
 
-SmartTravelPlanningAssistant is a cross-platform mobile application developed using Flutter. 
-It offers intelligent travel planning features, allowing users to input their budget, travel days, number of people, country, and specific places of interest. 
-The app generates personalized travel plans and provides users with optimal travel routes and times. 
+SmartTravelPlanningAssistant is a cross-platform mobile application developed using Flutter.
+It offers intelligent travel planning features, allowing users to input their budget, travel days, number of people, country, and specific places of interest.
+The app generates personalized travel plans and provides users with optimal travel routes and times.
 It also integrates Google Maps for location display.
 
 ## Technologies Used
@@ -19,7 +19,7 @@ It also integrates Google Maps for location display.
 2. Input Travel Requirements: Users can enter their budget, travel days, number of people, country, and places of interest.
 3. Travel Plan Generation: Based on the input data, the backend generates personalized travel plans using GPT-4o models.
 4. Google Maps Integration: Displays locations and travel routes on a map.
-6. Plan Adjustment: Users can freely add or remove places from the plan.
+5. Plan Adjustment: Users can freely add or remove places from the plan.
 
 ## Installation
 
@@ -34,10 +34,9 @@ It also integrates Google Maps for location display.
 
 ### Frontend Setup
 
-1. Clone the repository:
+1.  Navigate to the frontend directory:
 
    ```
-   git clone https://github.com/yourusername/SmartTravelPlanningAssistant.git
    cd my_travel_app
    ```
 
@@ -60,7 +59,6 @@ It also integrates Google Maps for location display.
    ```
 
 ### Backend Setup
-
 
 1. Navigate to the backend directory:
 
@@ -95,4 +93,4 @@ It also integrates Google Maps for location display.
 2. Create an account or login.
 3. Enter your travel requirements and submit.
 4. View the generated travel plan.
-4. Adjust the travel plan as needed.
+5. Adjust the travel plan as needed.
